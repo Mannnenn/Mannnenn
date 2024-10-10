@@ -3,11 +3,18 @@ Interested in autonomous mobility,control engineering
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mannnenn&theme=dracula)
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <!-- プロフィールカード -->
+  <img style="width: 98%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mannnenn&theme=dark" />
 
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Mannnenn&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannnenn&count_private=true&layout=compact&theme=dracula" />
-</a>
+  <!-- 統計カード -->
+  <div style="display: flex; gap: 20px; margin-top: 20px; width: 100%;">
+    <a href="https://github.com/Mannnenn" style="flex: 1;">
+      <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Mannnenn&count_private=true&show_icons=true&theme=dark" />
+    </a>
+    <a href="https://github.com/Mannnenn" style="flex: 1;">
+      <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannnenn&count_private=true&layout=compact&theme=dark" />
+    </a>
+  </div>
+</div>
+
