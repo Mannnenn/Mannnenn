@@ -1,4 +1,4 @@
-TUAT,B3 ← NITIC,5th,Mechatro Lab,Sota Ogasawara
+TUAT,M1 ← NITIC,5th,Mechatro Lab,Sota Ogasawara
 Interested in autonomous mobility,control engineering
 
 
